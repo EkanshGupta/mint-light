@@ -6,11 +6,11 @@ Here are the instructions to use this repo
 
 Transaction file as per availability on the bank website (so far only these banks are supported)
 
-Amex - date range
-BOFA - statement month-wise
-Chase - year-to-date
-Citi - year-to-date or statement month-wise
-USB - date range
+Amex - date range <br />
+BOFA - statement month-wise <br />
+Chase - year-to-date <br />
+Citi - year-to-date or statement month-wise <br />
+USB - date range <br />
 WF - date range
 
 So download all the transactions and name them as "Transactions_<Bank>xxx.csv"
